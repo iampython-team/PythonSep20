@@ -1,0 +1,18 @@
+Conditional statements 
+----------
+if 
+elif 
+else 
+
+loops 
+-------
+for 
+while 
+
+
+Flow statements
+-------
+continue 
+break 
+pass 
+

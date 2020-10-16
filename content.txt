@@ -1,0 +1,69 @@
+Datatypes 
+   numbers 
+      int 
+      float
+      complex 
+
+    String 
+    list 
+    tuple 
+    set 
+     Frozenset 
+    range 
+    None 
+    bytes 
+    bytearray 
+    bool 
+    dict 
+Control Statements 
+   if else 
+   while 
+   for 
+   pass 
+   break 
+   continue 
+
+Functions 
+   Parameters - variable * ** kwargs 
+   types 
+   in built functions 
+
+Exceptions 
+   try 
+   else 
+   except 
+   raise 
+   finally 
+
+Files 
+   read and write 
+
+Modules - packages 
+
+
+List Comperehension 
+
+Generators 
+
+Decarators 
+
+
+OOPS 
+ class 
+ object 
+ inehrtance 
+ poly 
+ encapsulation 
+ abstarction 
+
+Multithreading 
+
+Databases 
+
+
+
+
+
+
+
+
